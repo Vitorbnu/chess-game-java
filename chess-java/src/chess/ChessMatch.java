@@ -7,9 +7,9 @@ import java.util.stream.Collectors;
 import boardgame.Board;
 import boardgame.Piece;
 import boardgame.Position;
-import chess.piece.King;
-import chess.piece.Pawn;
-import chess.piece.Rook;
+import chess.pieces.King;
+import chess.pieces.Pawn;
+import chess.pieces.Rook;
 
 public class ChessMatch {
 	private int turn;
